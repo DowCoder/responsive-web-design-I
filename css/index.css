@@ -79,7 +79,9 @@ body {
 	
 }
  
- 
+ .top-page {
+	 width: 20px;
+ }
  .navigation {
 	display: flex;
 	flex-direction: row;
@@ -110,8 +112,8 @@ body {
 .logo {
 	position: absolute;
 		left: 53%;
-		top: 48%;
-		margin-left: -22%;
+		top: 2%;
+		margin-left: -5%;
 }
 
 
@@ -147,7 +149,7 @@ width: 150px;
 padding: 5px 20px;
 border: 1px solid black;
 background: white;
-margin-right: 39%;
+margin-right: 36%;
 
 
 
@@ -159,7 +161,7 @@ margin-right: 39%;
 	width: 396px;
 	float: right;
 	position: absolute;
-	right: 33%;
+	right: 25%;
 	top: 9%;
 } 
 
